@@ -15,5 +15,5 @@ JWT Authentication: For securing API endpoints
 Architecture Diagram
 E-Commerce API Architecture
 
-This diagram represents the architecture of the E-Commerce API, showing the main backend service, JWT authentication, and Stripe payment integration.
 
+![simple-ecommerce-api-thzqo](https://github.com/user-attachments/assets/b7a35b5d-b71b-4312-bb39-82a4d106ffef)
